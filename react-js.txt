@@ -1,0 +1,74 @@
+react is a library not a frame
+developed by jordan walke
+resusable component based system
+
+can be developed single page or multi page using react js
+
+Multipage application
+returns complete web page
+
+single page application
+provide the structure
+low time to load
+
+
+virtual Dom
+***********
+
+   .ActuaDom html document to collection of object
+    slow task ,heavy usage of resourses like memory
+
+memory representaion of dom 
+only updates what needed
+
+
+
+Reusable components
+use jsx syntax
+
+jsx 
+****
+javascript extented
+
+user bable lib to convert html to js
+.
+every items hould enclosed in a parent tag
+
+<React.fragment> ==used to avoid usage of parent div
+
+two type of componets 
+class componet=it has state
+function componets= not have a state
+
+by giving defult in export we can use it in any name. use {} while importing.
+
+react js properties.
+*******************
+
+property is read only 
+to maintain type use {}
+
+<Akhil color="red"/>
+
+by using super();  calling parent class constructor;
+this keyword is used to access class components .
+
+class is used to maintain state .
+
+
+life cycle hooks/or methode
+
+mount -placed in app
+update-loaded component updated
+unmounted-removed from application
+etc
+
+axios- make api call's library
+
+ 
+
+
+
+
+
+
